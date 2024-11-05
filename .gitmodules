@@ -1,0 +1,6 @@
+[submodule "SCAD/lib/Round-Anything"]
+	path = SCAD/lib/Round-Anything
+	url = https://github.com/Irev-Dev/Round-Anything.git
+[submodule "SCAD/lib/BOSL2"]
+	path = SCAD/lib/BOSL2
+	url = https://github.com/BelfrySCAD/BOSL2.git

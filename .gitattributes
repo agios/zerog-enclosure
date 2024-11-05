@@ -1,0 +1,6 @@
+SCAD/lib/mercury_235_assembly.stl filter=lfs diff=lfs merge=lfs -text
+SCAD/lib/PIP[[:space:]]super[[:space:]]mini[[:space:]]gear[[:space:]]hinge[[:space:]]v3[[:space:]]extended.stl filter=lfs diff=lfs merge=lfs -text
+SCAD/lib/Handle_LARGE.stl filter=lfs diff=lfs merge=lfs -text
+SCAD/lib/Handle_SMALL.stl filter=lfs diff=lfs merge=lfs -text
+SCAD/lib/Hydra_5pro.stl filter=lfs diff=lfs merge=lfs -text
+SCAD/lib/PIP[[:space:]]mini[[:space:]]gear[[:space:]]hinge[[:space:]]v2.stl filter=lfs diff=lfs merge=lfs -text
